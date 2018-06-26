@@ -1,3 +1,7 @@
 Hello Star!
 Hello World!
+<<<<<<< HEAD
 Hello Rachel!
+=======
+Hello Ivan!
+>>>>>>> a173330875895b7cd408c1382cb918203fa68f37
