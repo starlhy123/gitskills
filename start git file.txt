@@ -1,1 +1,2 @@
 hello star!
+Pull request, from star to master
